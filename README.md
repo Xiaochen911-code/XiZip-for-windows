@@ -9,10 +9,10 @@ XiZip 是一个以 **7-Zip** 为内核的本地压缩包管理器，采用「原
 
 本仓库包含两个等价实现，共用同一套 Web 前端，界面与交互完全一致：
 
-| 版本 | 目录 | 技术栈 | 推荐场景 |
-| :---: | :--- | :--- | :--- |
-| **Python 版** | [`python版`](./Python版) | Python 3.14 · Flask · pywebview | 已有 Python 环境、快速调试 |
-| **Visual Studio 版** | [`Visual Studio版`](./Visual Studio版（.NET）) | .NET 10 · WPF · WebView2 · ASP.NET Core | 发布独立 exe、长期使用 |
+| 版本 | 技术栈 | 推荐场景 |
+| :---: | :--- | :--- |
+| **Python 版** | Python 3.14 · Flask · pywebview | 已有 Python 环境、快速调试 |
+| **Visual Studio 版** | .NET 10 · WPF · WebView2 · ASP.NET Core | 发布独立 exe、长期使用 |
 
 ---
 
