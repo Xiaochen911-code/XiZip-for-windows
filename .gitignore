@@ -1,0 +1,23 @@
+# ===== 构建产物 =====
+**/bin/
+**/obj/
+**/.vs/
+**/__pycache__/
+**/*.pyc
+**/*.user
+**/*.suo
+
+# ===== IDE =====
+.vscode/
+.idea/
+*.swp
+
+# ===== 系统文件 =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== 日志 / 临时 =====
+*.log
+*.tmp
+xizip_*
