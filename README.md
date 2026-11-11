@@ -1,11 +1,9 @@
 # Xi Zip 📁
 
 <div align="center">
-**本地压缩包管理器 · 7-Zip 内核 · 纯本地处理**
+本地压缩包管理器 · 7-Zip 内核 · 纯本地处理
 
-[![version](https://img.shields.io/badge/version-1.1.0-e8a33a?style=flat-square)]()[![7-zip](https://img.shields.io/badge/7--zip-26.06-orange?style=flat-square)]()[![platform](https://img.shields.io/badge/platform-Windows-blue?style=flat-square)]()[![python](https://img.shields.io/badge/python-3.14%2B-blue?style=flat-square)]()[![dotnet](https://img.shields.io/badge/.NET-10-512BD4?style=flat-square)]()[![license](https://img.shields.io/badge/license-MIT-green?style=flat-square)]()
-
-</div>
+[![version](https://img.shields.io/badge/version-1.1.0-e8a33a?style=flat-square)]() [![7-zip](https://img.shields.io/badge/7--zip-26.06-orange?style=flat-square)]() [![platform](https://img.shields.io/badge/platform-Windows-blue?style=flat-square)]() [![python](https://img.shields.io/badge/python-3.14%2B-blue?style=flat-square)]() [![dotnet](https://img.shields.io/badge/.NET-10-512BD4?style=flat-square)]() [![license](https://img.shields.io/badge/license-MIT-green?style=flat-square)]()
 
 XiZip 是一个以 **7-Zip** 为内核的本地压缩包管理器，采用「原生桌面窗口 + Web 前端」的双层架构：暖色调毛玻璃界面，提供 **MINI / MAX 双视图**、拖拽打开、内嵌预览、解压进度动画、可取消的新建压缩包等功能。所有处理均在本地完成，不上传任何文件。
 
@@ -287,5 +285,3 @@ SOFTWARE.
 <div align="center">
 
 Made with ❤️ — XiZip
-
-</div>
